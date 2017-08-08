@@ -11,5 +11,7 @@ Once an initial decision is made users are placed into groups based on the perce
 ![discussionpg](https://user-images.githubusercontent.com/6510141/27976808-b9080f6a-632d-11e7-936e-c397657f5608.png)
 
 Always looking for contributors or donations.
+https://www.gofundme.com/48qw9z4?lang=en-US
+
 
 
