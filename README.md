@@ -6,7 +6,7 @@ Now You're Talk'n is an app that offers moderated discussion for controversial t
 
 ![topicspg](https://user-images.githubusercontent.com/6510141/27975493-f746bf48-6327-11e7-9f17-d19b72615217.png)
 
-Once an initial decision is made users are placed into groups based on the percentage of people that agree upon it. i.e. In groups of 10 if 50% of users in the group would vote yes or agree with the headline and 50% disagree then the group would be 5 to 5 and so on. Users are then taken to the discussions page where they can then discuss their opinions, link articles, change sides and tag favorite topics to the favorites page. 
+Once an initial decision is made users are placed into groups based on the percentage of total users that agree upon it. i.e. In groups of 10 if 50% of users would vote yes or agree with the headline and 50% disagree then the group would be 5 to 5 and so on. Users are then taken to the discussions page where they can then discuss their opinions, link articles, and change sides. When an opinion is changed groups are reordinized until the percentage of total user beliefs change. This allows users to see the impact that they are making. To keep the discussiongoing users can also tag favorite topics to the favorites page. 
 
 ![discussionpg](https://user-images.githubusercontent.com/6510141/27976808-b9080f6a-632d-11e7-936e-c397657f5608.png)
 
