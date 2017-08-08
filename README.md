@@ -10,6 +10,8 @@ Once an initial decision is made users are placed into groups based on the perce
 
 ![discussionpg](https://user-images.githubusercontent.com/6510141/27976808-b9080f6a-632d-11e7-936e-c397657f5608.png)
 
+To moderate discussion Now You're Talking uses effective focus groups that keep spam and over crowing out. Users are rewarded with points for changing sides and posting reputable sources and being in a group that has reached a verdict(when all users agree).
+
 contact me about contributions (805)-448-9731.
 
 Make a donation!
