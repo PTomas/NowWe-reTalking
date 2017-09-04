@@ -1,5 +1,5 @@
 # NowYou-reTalking
-What if YOU could change the world. What if you could convince an officer to see people of all walks of life as the same before a family is torn appart. what if you could talk an artist into making more positive music and fall into less negetive sterio types. What if you could convince health care providers that vetrens need more support. What if you could convince a senator or just one of millions of voters that climate change needs to be adressed. What if you could convince people to fight for a positive future? YOU could change the world. 
+What if YOU could change the world. What if you could convince an officer to see people of all walks of life as the same before a family is torn apart. what if you could talk an artist into making more positive music and fall into less negative stereo types. What if you could convince health care providers that veterans need more support. What if you could convince a senator or just one of millions of voters that climate change needs to be addressed. What if you could convince people to fight for a positive future? YOU could change the world.
 
 What's Talking is a moderated discussion board that selects controversial news stories and assembles users with differing opinions into chat groups, balanced by aggregated user statistics.
 
