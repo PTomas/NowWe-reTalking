@@ -3,7 +3,7 @@ What if we could change the world? What if we could change views on gun control 
 
 Now You're Talking is a moderated discussion board that selects controversial news stories and assembles users with differing opinions into chat groups, balanced by aggregated user statistics.
 
-What's Talking is an app that aims to change the way the people around the world communicate and organizes for change in their governments. What's Talking allows users to post issues/legislation to the topics page. Once an item is clicked the user shall be able to agree or disagree with the issue.
+Now You're Talking is an app that aims to change the way the people around the world communicate and organizes for change in their governments. What's Talking allows users to post issues/legislation to the topics page. Once an item is clicked the user shall be able to agree or disagree with the issue.
 
 ![topicspg](https://user-images.githubusercontent.com/6510141/30008252-61c9434a-90d2-11e7-8629-09a1733482ee.png)
 
