@@ -1,15 +1,17 @@
-# Whats Talking
+#Now You're Talking
 What if we could change the world? What if we could change views on gun control before a life is taken. What if we could change views on climate change before we run out of time to find solutions. What if we could talk about our problems, combat polorization and see the changes that we want. We could change the world.
 
-What's Talking is a moderated discussion board that selects controversial news stories and assembles users with differing opinions into chat groups, balanced by aggregated user statistics.
+Now You're Talking is a moderated discussion board that selects controversial news stories and assembles users with differing opinions into chat groups, balanced by aggregated user statistics.
 
-Topics are pulled from google news and twitter ensuring that each topic has traction as well as link to a reputable news article on google. Users can then select the topic (headline) that seems the most intersecting. The users can then either decide their opinion with the opinion buttons or click the article for more information. 
+What's Talking is an app that aims to change the way the people around the world communicate and organizes for change in their governments. What's Talking allows users to post issues/legislation to the topics page. Once an item is clicked the user shall be able to agree or disagree with the issue.
 
 ![topicspg](https://user-images.githubusercontent.com/6510141/30008252-61c9434a-90d2-11e7-8629-09a1733482ee.png)
 
-Once an initial decision is made users are placed into groups based on the percentage of total users that agree upon it. i.e. In groups of 10 if 50% of users would vote yes or agree with the headline and 50% disagree then the group would be 5 to 5 and so on. Users are then taken to the discussions page where they can then discuss their opinions, link articles, and change sides. When an opinion is changed groups are reordinized until the percentage of total user beliefs change. This allows users to see the impact that they are making. To keep the discussion going users can also tag favorite topics to the favorites page. 
+Upon making a decision users are then placed into groups of 10 for debate on the discussions page. These groups shall be balanced by the percentage of total users that agree or disagree ie. if 50% agree the ratio should be 5-5 and so on. In this way, users shall be able to act as representatives of their opinion in a real debate setting. each time a user is convinced to change opinions (using the opinion buttons also located on the discussion page) users in that group are placed into a new group still balanced by the percentage of total user opinions. A graph of total user opinions shall also be available on the discussion page.
 
 ![discussionpg](https://user-images.githubusercontent.com/6510141/30008230-2a497c5a-90d2-11e7-9bac-e4b7df3898f1.png)
+
+topics shall be able to be favourited on this page as well. Once tagged as a favourite the topic shall appear on the favourites page. Attached is a flowchart of the different parts of the platform including UIPages(Rounded Rectangle), UIActions(Elipsis), and Server Functions(Rectangles) Which shall be written in swift and whatever you determine fit for the server.
 
 contact me about contributions (805)-448-9731.
 
