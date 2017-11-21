@@ -1,4 +1,4 @@
-# NowYou-reTalking
+# Whats Talking
 What if we could change the world? What if we could change views on gun control before a life is taken. What if we could change views on climate change before we run out of time to find solutions. What if we could talk about our problems, combat polorization and see the changes that we want. We could change the world.
 
 What's Talking is a moderated discussion board that selects controversial news stories and assembles users with differing opinions into chat groups, balanced by aggregated user statistics.
