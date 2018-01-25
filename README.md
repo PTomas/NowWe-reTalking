@@ -18,7 +18,18 @@ InfluenceVC
 
 •Body
 -UITableView
--UITableViewCells
+-Custom UITableViewCells
+
+BioVC
+•Head 
+-influenceButton
+-graphsButton
+-topicsButton
+
+•Body
+-profilePictureButton
+-UITableView 
+-CustomTableViewCells(default add photo)
 
 GraphsVC
 •Header
